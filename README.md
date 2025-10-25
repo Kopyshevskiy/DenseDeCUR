@@ -5,4 +5,5 @@
   <img width="800" alt="decur main structure" src="assets/densedecur.png">
 </p>
 
-Implemented in PyTorch. ReadME in progress.
+Implemented in PyTorch.<br>
+README: work in progress.
