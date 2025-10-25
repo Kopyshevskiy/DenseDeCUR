@@ -1,4 +1,4 @@
-## Dense Decoupling Common and Unique Representations
+## Dense, Decoupling of Common and Unique Representations
 
 
 <p align="center">
